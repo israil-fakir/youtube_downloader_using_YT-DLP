@@ -17,6 +17,8 @@
 
 <p>This guide walks you through installing <strong>YT-DLP</strong> and <strong>FFmpeg</strong> on Windows 11 and verifying the installation.</p>
 
+<p>✨ With this setup, you can now download both <strong>single YouTube videos</strong> and <strong>entire playlists</strong> in MP4 format.</p>
+
 <hr>
 
 <h2>1️⃣ Prerequisites</h2>
@@ -85,10 +87,22 @@ yt-dlp --version</pre>
 <pre>ffmpeg -version</pre>
 
 <hr>
-
-<h2>5️⃣ Test a Basic Download</h2>
-<pre>yt-dlp https://www.youtube.com/watch?v=VIDEO_ID</pre>
-<p>If the video downloads and plays, your setup is working ✅</p>
+ 
+<h2>▶️ How to Run</h2>
+<h4> After successfully completing the setup, you can download <strong>videos</strong> or <strong>entire playlists</strong> from YouTube.</h4>
+<ol>
+  <li>Make sure Python, YT-DLP, and FFmpeg are installed and working (see setup steps above).</li>
+ 
+  <li>Double-click the <code>downloader.bat</code> file.</li>
+  <li>When prompted:
+    <ul>
+      <li>Paste a <strong>single YouTube video URL</strong> to download just that video.</li>
+      <li>Paste a <strong>playlist URL</strong> to download all videos in the playlist.</li>
+    </ul>
+  </li>
+  <li>Wait for the download(s) to complete — the MP4 files will appear in the same folder.</li>
+  <li>Download complete! Press any key to exit.</li>
+</ol>
 
 </body>
 </html>
