@@ -2,15 +2,21 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-
 </head>
 <body>
 
-<h1>📥 Youtube Videos Donloader Setup Guide (Windows 11)</h1>
+<h1>📥 Youtube Videos Downloader Setup Guide (Windows 11)</h1>
 
 <p>This guide walks you through installing <strong>YT-DLP</strong> and <strong>FFmpeg</strong> on Windows 11 and verifying the installation.</p>
 
 <p>With this setup, you can now download both <strong>single YouTube videos</strong> and <strong>entire playlists</strong> in MP4 format.</p>
+
+<hr>
+
+<h2>📂 Clone This Project</h2>
+<p>You can download or clone this repository to your local machine:</p>
+<pre>git clone https://github.com/israil-fakir/youtube_downloader_using_YT-DLP.git
+cd youtube_downloader_using_YT-DLP</pre>
 
 <hr>
 
@@ -96,8 +102,8 @@ yt-dlp --version</pre>
   <li>Wait for the download(s) to complete — the MP4 files will appear in the same folder.</li>
   <li>To cancel Press:
        <ul>
-      <li>Ctrl + c</li>
-      <li>Terminate processs (Y/N)?</li>
+      <li>Ctrl + C</li>
+      <li>Terminate process (Y/N)?</li>
       <ul>
       <li>Y - to cancel</li>
       <li>N - to continue</li>
