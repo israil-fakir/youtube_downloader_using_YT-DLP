@@ -1,7 +1,7 @@
 @echo off
-title YT-DLP Video Downloader
+title Youtube Video Downloader
 echo =========================================
-echo     YT-DLP + FFmpeg MP4 Downloader
+echo     Free Video Downloader 
 echo =========================================
 set /p url=Paste video URL: 
 yt-dlp -S res,ext:mp4:m4a --recode-video mp4 "%url%"
