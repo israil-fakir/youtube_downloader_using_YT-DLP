@@ -2,14 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>YT-DLP + FFmpeg Setup Guide (Windows 11)</title>
-<style>
-  body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-  h1, h2, h3 { color: #2c3e50; }
-  code { background: #f4f4f4; padding: 2px 4px; border-radius: 4px; }
-  pre { background: #0e0e0e; color: #f4f4f4; padding: 10px; border-radius: 4px; overflow-x: auto; }
-  ul, ol { margin-bottom: 1em; }
-</style>
+
 </head>
 <body>
 
