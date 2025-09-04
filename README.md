@@ -10,7 +10,7 @@
 
 <p>This guide walks you through installing <strong>YT-DLP</strong> and <strong>FFmpeg</strong> on Windows 11 and verifying the installation.</p>
 
-<p>✨ With this setup, you can now download both <strong>single YouTube videos</strong> and <strong>entire playlists</strong> in MP4 format.</p>
+<p>With this setup, you can now download both <strong>single YouTube videos</strong> and <strong>entire playlists</strong> in MP4 format.</p>
 
 <hr>
 
