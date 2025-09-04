@@ -13,7 +13,7 @@
 </head>
 <body>
 
-<h1>📥 YT-DLP + FFmpeg Setup Guide (Windows 11)</h1>
+<h1>📥 Youtube Videos Donloader Setup Guide (Windows 11)</h1>
 
 <p>This guide walks you through installing <strong>YT-DLP</strong> and <strong>FFmpeg</strong> on Windows 11 and verifying the installation.</p>
 
@@ -101,6 +101,17 @@ yt-dlp --version</pre>
     </ul>
   </li>
   <li>Wait for the download(s) to complete — the MP4 files will appear in the same folder.</li>
+  <li>To cancel Press:
+       <ul>
+      <li>Ctrl + c</li>
+      <li>Terminate processs (Y/N)?</li>
+      <ul>
+      <li>Y - to cancel</li>
+      <li>N - to continue</li>
+      </ul>
+    </ul>
+  </li>
+
   <li>Download complete! Press any key to exit.</li>
 </ol>
 
